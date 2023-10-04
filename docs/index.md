@@ -23,6 +23,7 @@
 # Autores
 
 *Mateus Mendes Cabral
+*Thiago Felipe Garcia
 
 # Descrição do projeto
 
