@@ -1,54 +1,55 @@
 <h2><a href= "https://www.mackenzie.br">Universidade Presbiteriana Mackenzie</a></h2>
 <h3><a href= "https://www.mackenzie.br/graduacao/sao-paulo-higienopolis/sistemas-de-informacao">Sistemas de Informação</a></h3>
 
-
-<font size="+12"><center>
-*&lt;Nome do Projeto&gt;*
+<font size="+15"><center>
+*&lt;Pizza-Express&gt;*
 </center></font>
-
->*Observação 1: A estrutura inicial deste documento é só um exemplo. O seu grupo deverá alterar esta estrutura de acordo com o que está sendo solicitado na disciplina.*
-
->*Observação 2: O índice abaixo não precisa ser editado se você utilizar o Visual Studio Code com a extensão **Markdown All in One**. Essa extensão atualiza o índice automaticamente quando o arquivo é salvo.*
 
 **Conteúdo**
 
-- [Autores](#nome-alunos)
-- [Descrição do projeto](#introdução-do-projeto)
-- [Análise de requisitos funcionais e não-fucionais](#descrição-dos-requisitos)
-- [Diagrama de casos de uso](#diagrama-de-comportamento-atores)
-- [Descrição dos casos de uso](#descrição-das-funcões)
-- [Diagrama de senquencia](#diagrama-de-ordem-interações)
-- [Diagrama de classes](#diagrama-orientado-objetos)
-- [Diagrama de componentes](#diagrama-estrutura-componente)
+- [Autores](#autores)
+- [Descrição do projeto](#descrição-do-projeto)
+- [Requisitos funcionais e não-funcionais](#requisitos-funcionais-e-não-funcionais)
+- [Diagrama de casos de uso](#diagrama-de-casos-de-uso)
+- [Descrição dos casos de uso](#descrição-dos-casos-de-uso)
+- [Diagrama de sequencia](#diagrama-de-sequencia)
+- [Diagrama de classes](#diagrama-de-classes)
+- [Diagrama de Componentes](#diagrama-de-componentes)
 - [Decisões de arquitetura](#decisões-de-arquitetura)
-- [Diagrama de implantação](#diagrama-de-hardware-software)
+- [Diagrama de implantação](#diagrama-de-implantação)
 - [Referências](#referências)
 
 
 # Autores
 
-* Mateus Mendes Cabral
-* Thiago Felipe Garcia
-
+*Mateus Mendes Cabral
 
 # Descrição do projeto
 
-*&lt;Introdução do projeto&gt;*
+O projeto tem como objetivo fundamental revitalizar a Pizza-Express, uma rede de fast-food que entrega em casa, na qual, enfrentou recentes desafios devido à perda de 30% do seu rendimento de vendas para um concorrente que garante entrega em apenas 30 minutos. Para solucionar isso e enfrentar a concorrente, a empresa terá dois sistemas de software, sendo eles, um sistema voltado para a melhoria da experiencia do cliente, tornando o processo de pedido e entrega eficiente e mais rapido. O outro sistema buscar ter mais eficiencia nas operações nas lojas da rede.
 
-# Análise de requisitos funcionais e não-funcionais
-*&lt;Descrição dos requisitos&gt;*
+# Requisitos funcionais e não-funcionais
+1.*Requisitos funcionais:* 1. Sistema de atendimento do pedido 1 - Clientes poderem fazer o pedido online. Sistema identifica a loja Pizza-Express da rede mais proxima a localização do cliente. Sistema calcula o tempo estimado de entrega e exibiro contador ao cliente. Clientes podem rastrear o pedido em tempo real. Sistema deve suportar pagamentos online seguro, garantindo a proteção dos dados financeiros dos clintes. 2. Sistema de suporte as operações - Loja deve receber pedidos da rede de forma eficiente. Sistema monitora os ingredientes dispoiniveis em tempo real e quando necessário da um gatilho no fluxo para que a reposição seja feita. Sistema gera relatórios BI de desempenho das lojas, incluindo métricas de tempo médio de preparação e as notas dadas dos clientes.
+2.*Requisitos não funcionais:* Quando possivel, sistema deve garantir que a entrega seja feita em menos de 30 minutos. Deve existir uma segurança rigorosa dos dados dos clientes e seus pagamentos, a segurança e privacidade deve estar de acordo com as regulamentações. A interfacer do usuario deve ser intuitiva para facilitar a realização de pedidos, e operação eficiente por parte dos funcionarios. Os sistemas deve estar disponiveis, e preparados com planos de contigencia para lidar com falhas. Por ultimo, a equipe deve trabalhar de forma colaborativa, reconhecendo a importancia crítica do projeto para a empresa permanecer no mercado.
 
 # Diagrama de casos de uso
 
-*&lt;Diagrama para visualizar o comportamento dos atores&gt;*
+![Texto](/img/Diagrama%20de%20casos%20de%20uso.jpeg)
+
 
 # Descrição dos casos de uso
 
-*&lt;Descrição do comportamento entre os atores/resquisitos&gt;*
+![Texto](/img/Descrição%20casos%20de%20uso%201.jpeg)
+![Texto](/img/Descrição%20casos%20de%20uso%202.jpeg)
+![Texto](/img/Descrição%20casos%20de%20uso%203.jpeg)
+![Texto](/img/Descrição%20casos%20de%20uso%204.jpeg)
+![Texto](/img/Descrição%20casos%20de%20uso%205.jpeg)
+
 
 # Diagrama de sequencia
 
-*&lt;Diagrama de ordem e interação dos objetos&gt;*
+![Texto](/img/Diagrama%20de%20Sequencia.jpeg)
+
 
 # Diagrama de classes
 
@@ -56,7 +57,7 @@
 
 # Diagrama de Componentes
 
-*&lt;Diagrama para exibir a relação estrutural dos componentes de um sistema de software
+*&lt;Diagrama para exibir a relação estrutural dos componentes de um sistema de software&gt;*
 
 # Decisões de arquitetura
 
