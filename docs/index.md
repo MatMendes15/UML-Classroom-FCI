@@ -24,6 +24,8 @@
 
 *Mateus Mendes Cabral
 
+*Thiago Felipe Garcia
+
 # Descrição do projeto
 
 O projeto tem como objetivo fundamental revitalizar a Pizza-Express, uma rede de fast-food que entrega em casa, na qual, enfrentou recentes desafios devido à perda de 30% do seu rendimento de vendas para um concorrente que garante entrega em apenas 30 minutos. Para solucionar isso e enfrentar a concorrente, a empresa terá dois sistemas de software, sendo eles, um sistema voltado para a melhoria da experiencia do cliente, tornando o processo de pedido e entrega eficiente e mais rapido. O outro sistema buscar ter mais eficiencia nas operações nas lojas da rede.
