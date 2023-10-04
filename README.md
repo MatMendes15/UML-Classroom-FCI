@@ -21,11 +21,11 @@ A seguir, os passos para a preparação do projeto:
 
 # Projeto: *<Pizza-Express>*
 
-# Grupo: *<ES - Mateus e Thiago>*
+# Grupo: Engenharia de Software - Mateus e Thiago
 
 # Descrição
 
-*<Software de pedidos de pizza, no qual organiza-se em receber ordens, preparar e entregar pizza>*
+Software de pedidos de pizza, no qual organiza-se em receber ordens, preparar e entregar pizza
 
 # Documentação
 
