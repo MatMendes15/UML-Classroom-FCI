@@ -58,7 +58,7 @@ O projeto tem como objetivo fundamental revitalizar a Pizza-Express, uma rede de
 
 # Diagrama de Componentes
 
-![Texto](/img/Diagrama%20de%20Componentes.jpeg.jpeg)
+![Texto](/img/Diagrama%20de%20Componentes.jpeg)
 
 # Decisões de arquitetura
 
@@ -74,4 +74,4 @@ Ao lidar com operações monetárias dentro do sistema, é de extrema importânc
 
 # Diagrama de implantação
 
-![Texto](/img/Diagrama%20de%20implantação.jpeg.jpeg)
+![Texto](/img/Diagrama%20de%20implantação.jpeg)
