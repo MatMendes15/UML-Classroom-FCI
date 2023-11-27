@@ -17,7 +17,6 @@
 - [Diagrama de Componentes](#diagrama-de-componentes)
 - [Decisões de arquitetura](#decisões-de-arquitetura)
 - [Diagrama de implantação](#diagrama-de-implantação)
-- [Referências](#referências)
 
 
 # Autores
@@ -55,20 +54,24 @@ O projeto tem como objetivo fundamental revitalizar a Pizza-Express, uma rede de
 
 # Diagrama de classes
 
-*&lt;Diagrama de relacionamento entre classes para os seus atributos e operações&gt;*
+![Texto](/img/Diagrama%20de%20Classes.jpeg)
 
 # Diagrama de Componentes
 
-*&lt;Diagrama para exibir a relação estrutural dos componentes de um sistema de software&gt;*
+![Texto](/img/Diagrama%20de%20Componentes.jpeg.jpeg)
 
 # Decisões de arquitetura
 
-*&lt;Descrever a infraestrutura escolhida para arquitetura do projeto&gt;*
+*Requisitos de segurança:*
+Ao analisar a estrutura do projeto apresentado, chegamos à conclusão que além dos requisitos mínimos e obrigatórios para qualquer tipo de aplicação, identificamos que o sistema deve incluir medidas de proteção específicas nos seguintes recursos:
+
+•	Usuário Unidade Pizza-Express
+Tendo em mente que as unidades terão acesso a dados e informações extremamente sensíveis, é explicito que os usuários utilizados possuirão permissões de alto nível dentro do sistema, logo, é fundamental que estes sejam rigorosamente protegidos e blindados contra possíveis ataques e tentativas de invasão.
+Também é necessário restringir o acesso de cada usuário, de forma que os colaboradores possuam os poderes pertinentes ao cargo ocupado, como exemplo: gerentes, auxiliares, etc.
+
+•	Escopo de Pagamento
+Ao lidar com operações monetárias dentro do sistema, é de extrema importância que o mesmo seja arquitetado para evitar toda e qualquer falha, bem como realizar o devido tratamento destes pagamentos, para que assim o cliente não tenha nenhum prejuízo durante a utilização.
 
 # Diagrama de implantação
 
-*&lt;Diagrama para exibir o relacionamento de hardware e software no projeto&gt;*
-
-# Referências
-
-*&lt;Lista de referências&gt;*
+![Texto](/img/Diagrama%20de%20implantação.jpeg.jpeg)
