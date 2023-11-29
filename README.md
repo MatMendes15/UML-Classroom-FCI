@@ -17,4 +17,4 @@ Os arquivos da documentação deste projeto estão na pasta [/docs](/docs), e o 
 # Releases
 
 1. Release - atualizações versao1
-2. Realease - atualização versaoFinal
+2. Release - atualização versaoFinal
